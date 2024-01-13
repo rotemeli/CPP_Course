@@ -1,7 +1,3 @@
-//
-// Created by ELON HADAD on 19/01/2023.
-//
-
 #include "Graph.h"
 
 Graph::Graph(const Graph &g) {
