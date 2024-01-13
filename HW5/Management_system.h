@@ -1,7 +1,3 @@
-//
-// Created by ELON HADAD on 20/01/2023.
-//
-
 #ifndef EX_05_MANAGEMENT_SYSTEM_H
 #define EX_05_MANAGEMENT_SYSTEM_H
 #include "Graph.h"
