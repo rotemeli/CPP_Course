@@ -1,7 +1,3 @@
-//
-// Created by ELON HADAD on 20/01/2023.
-//
-
 #include "Management_system.h"
 #include "InvalidInput.h"
 
