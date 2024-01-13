@@ -1,7 +1,3 @@
-//
-// Created by ELON HADAD on 19/01/2023.
-//
-
 #ifndef EX_05_GRAPH_H
 #define EX_05_GRAPH_H
 
